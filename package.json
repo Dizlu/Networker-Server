@@ -14,7 +14,10 @@
   "devDependencies": {
     "@types/aws-sdk": "0.0.42",
     "@types/node": "^7.0.5",
-    "tslint": "^5.5.0",
+    "serverless-dynamodb-local": "^0.2.30",
+    "serverless-offline": "^3.23.0",
+    "tslint": "^5.10.0",
+    "tslint-config-prettier": "^1.12.0",
     "tslint-config-standard": "^6.0.1",
     "typescript": "^2.4.2"
   },
@@ -22,6 +25,7 @@
     "aws-sdk": "^2.241.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "prettier": "^1.12.1",
     "serverless-http": "^1.5.5",
     "uuid": "^3.1.0"
   }
