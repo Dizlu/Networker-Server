@@ -9,6 +9,7 @@
   "author": "serverless.com",
   "license": "MIT",
   "dependencies": {
+    "firebase-functions": "^1.0.4",
     "serverless-google-cloudfunctions": "^1.1.0"
   }
 }
