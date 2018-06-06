@@ -1,5 +1,5 @@
 {
-  "name": "google-nodejs",
+  "name": "google-test-service",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "serverless.com",
   "license": "MIT",
   "dependencies": {
+    "firebase-admin": "^5.12.1",
     "firebase-functions": "^1.0.4",
     "serverless-google-cloudfunctions": "^1.1.0"
   }
